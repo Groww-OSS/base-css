@@ -1,5 +1,5 @@
-@import './font.css';
-@import './icon.css';
+@import './fonts/font.css';
+@import './icons/icon.css';
 @import './grid.css';
 @import './preloader.css';
 @import './typography.css';
