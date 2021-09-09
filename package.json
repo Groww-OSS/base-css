@@ -1,0 +1,10 @@
+{
+  "name": "web-css",
+  "version": "1.0.0",
+  "description": "Common css files that powers Groww",
+  "files": [
+    "/dist"
+  ],
+  "author": "",
+  "license": "ISC"
+}
