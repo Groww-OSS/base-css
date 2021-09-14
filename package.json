@@ -1,12 +1,18 @@
 {
-  "name": "bootstrap-css",
+  "name": "base-css",
   "version": "1.0.0",
-  "description": "Common css files that powers Groww",
+  "description": "Base CSS classes used by all Groww Web Projects",
   "main": "dist/index.css",
   "files": [
     "/dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Groww/base-css.git"
+  },
   "keywords": [
+    "base-css",
+    "groww",
     "css",
     "style"
   ],
@@ -25,5 +31,9 @@
       "url": "https://twitter.com/st_tronn"
     }
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Groww/base-css/issues"
+  },
+  "homepage": "https://github.com/Groww/base-css#readme"
 }
