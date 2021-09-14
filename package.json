@@ -2,9 +2,28 @@
   "name": "web-css",
   "version": "1.0.0",
   "description": "Common css files that powers Groww",
+  "main": "dist/index.css",
   "files": [
     "/dist"
   ],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "css",
+    "style"
+  ],
+  "author": "Vikas Singh <vikas.singh707@gmail.com> (https://twitter.com/VikasSi25579022)",
+  "contributors": [
+    {
+      "name": "Ankit Chouhan",
+      "url": "https://twitter.com/ankit__chouhan"
+    },
+    {
+      "name": "Rishabh Tripathi",
+      "url": "https://twitter.com/ristripathi"
+    },
+    {
+      "name": "Rishav Thakur",
+      "url": "https://twitter.com/st_tronn"
+    }
+  ],
+  "license": "MIT"
 }
