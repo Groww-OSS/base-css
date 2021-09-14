@@ -1,17 +1,17 @@
-# web-css
+# bootstrap-css
 
 Bootstrap CSS used by Groww web projects.
 
 ## Install
 
 ```sh
-npm install --save-dev "@groww-tech/web-css"
+npm install --save-dev "@groww-tech/bootstrap-css"
 ```
 
 ## Usage
 
 ```css
-@import '~@groww-tech/web-css/dist/index.css'
+@import '~@groww-tech/bootstrap-css/dist/index.css'
 ```
 
 
