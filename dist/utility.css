@@ -170,7 +170,3 @@ html[xmlns] .clearfix {
   color: var(--text130);
   margin: 0;
 }
-
-.bgClrLightGreen{
-  background-color: var(--primaryClr10);
-}
