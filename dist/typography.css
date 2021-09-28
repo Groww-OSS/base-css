@@ -171,6 +171,11 @@ we are keeping these classes in code base to support legacy code
   color: var(--secondaryClr130);
 }
 
+/* bg-color classes */
+
+.bgClrLightGreen{
+  background-color: var(--primaryClr10);
+}
 
 /* font weight */
 
