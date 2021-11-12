@@ -1,6 +1,6 @@
 {
   "name": "@groww-tech/base-css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Base CSS classes used by all Groww Web Projects",
   "main": "dist/index.css",
   "files": [
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Groww/base-css.git"
+  },
+  "scripts": {
+    "pushTags" : "PACKAGE_VERSION=$(cat package.json | grep \\\"version\\\" | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && git tag -a v$PACKAGE_VERSION -m \"@groww-tech/base-css-v$PACKAGE_VERSION\" && git push --tags"
   },
   "keywords": [
     "base-css",
