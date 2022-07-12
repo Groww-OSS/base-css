@@ -22,6 +22,7 @@ html {
   --growwRed: #EB5B3C;
   --growwRed10: #FAE9E5;
   --growwRed05: rgba(235, 91, 60, 0.05);
+  --gridClr: #EFEFEF;
   --border: #ECEDEF;
   --iconLight: #B0B2BA;
   --iconMedium: #DDDEE1;
@@ -66,6 +67,7 @@ html[data-theme="dark"] {
   --growwRed: #D55438;
   --growwRed10: #2A0F09;
   --growwRed05: rgba(213, 84, 56, 0.05);
+  --gridClr:#20323F;
   --border: #2A2A2A;
   --iconLight: #7C7E8C;
   --iconMedium: #404042;
